@@ -59,7 +59,7 @@ redis-cli    nc           curl          python3
 
 ```bash
 git clone https://github.com/thehackerthathacks/Vuln-Scanner.git
-cd VulnScanner
+cd Vuln-Scanner
 chmod +x vuln_scanner.sh
 ```
 
